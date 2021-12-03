@@ -1,0 +1,28 @@
+[19-Nov-2021 18:58:57 America/Fortaleza] PHP Warning:  include(config-modelo.php): failed to open stream: No such file or directory in /home2/strongca/public_html/admin/listar_produto.php on line 6
+[19-Nov-2021 18:58:57 America/Fortaleza] PHP Warning:  include(config-modelo.php): failed to open stream: No such file or directory in /home2/strongca/public_html/admin/listar_produto.php on line 6
+[19-Nov-2021 18:58:57 America/Fortaleza] PHP Warning:  include(): Failed opening 'config-modelo.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/strongca/public_html/admin/listar_produto.php on line 6
+[19-Nov-2021 18:58:57 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home2/strongca/public_html/admin/listar_produto.php:28
+Stack trace:
+#0 {main}
+  thrown in /home2/strongca/public_html/admin/listar_produto.php on line 28
+[19-Nov-2021 19:39:20 America/Fortaleza] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home2/strongca/public_html/admin/listar_produto.php on line 6
+[19-Nov-2021 19:39:20 America/Fortaleza] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home2/strongca/public_html/admin/listar_produto.php on line 6
+[19-Nov-2021 19:39:20 America/Fortaleza] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/strongca/public_html/admin/listar_produto.php on line 6
+[19-Nov-2021 19:39:20 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home2/strongca/public_html/admin/listar_produto.php:36
+Stack trace:
+#0 {main}
+  thrown in /home2/strongca/public_html/admin/listar_produto.php on line 36
+[19-Nov-2021 19:42:38 America/Fortaleza] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home2/strongca/public_html/admin/listar_produto.php on line 6
+[19-Nov-2021 19:42:38 America/Fortaleza] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home2/strongca/public_html/admin/listar_produto.php on line 6
+[19-Nov-2021 19:42:38 America/Fortaleza] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/strongca/public_html/admin/listar_produto.php on line 6
+[19-Nov-2021 19:42:38 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home2/strongca/public_html/admin/listar_produto.php:37
+Stack trace:
+#0 {main}
+  thrown in /home2/strongca/public_html/admin/listar_produto.php on line 37
+[19-Nov-2021 19:43:35 America/Fortaleza] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home2/strongca/public_html/admin/listar_produto.php on line 6
+[19-Nov-2021 19:43:35 America/Fortaleza] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home2/strongca/public_html/admin/listar_produto.php on line 6
+[19-Nov-2021 19:43:35 America/Fortaleza] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/strongca/public_html/admin/listar_produto.php on line 6
+[19-Nov-2021 19:43:35 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home2/strongca/public_html/admin/listar_produto.php:38
+Stack trace:
+#0 {main}
+  thrown in /home2/strongca/public_html/admin/listar_produto.php on line 38

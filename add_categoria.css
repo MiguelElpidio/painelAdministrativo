@@ -1,0 +1,16 @@
+.formulario_empresa {
+    padding: 13px;
+}
+.formulario_empresa input{
+    margin: 10px;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+    width: 400px;
+}
+.formulario_empresa button {
+    color: white;
+    background-color: #32363c;
+    border: none;
+    margin: 10px 10px;
+}

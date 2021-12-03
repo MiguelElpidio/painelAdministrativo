@@ -1,0 +1,96 @@
+.topo{
+    background-color: #3a3a3a;
+    color: #ffff;
+    width: 1366px;
+    height: 100px;
+}
+
+.painel{
+    float: left;
+    padding: 20px 40px;
+}
+.adm{
+    float: right;
+    padding: 34px 56px;
+    width: 357px;
+}
+
+.adm a{ 
+    color: #ffff;
+    float: right;
+    margin-top: -33px;
+    margin-right: 32px;
+    text-decoration: none;
+    font-family: system-ui;
+    background-color: red;
+    border-radius: 30px;
+    padding: 2px 19px;
+}
+.menu{
+    width: 20%;
+    float: left;
+    background-color: #21272b;
+    height: 1920px;
+    
+}
+
+.menu ul{
+    margin-top: 5px;
+}
+
+.menu ul a{
+    font-size: large;
+}
+
+.menu ul li:hover .submenu{
+    display: block ;
+}
+
+.menu ul li a {
+    color: #ffff;
+    text-decoration: none;
+}
+
+.submenu{
+    color: #f1f1f1;
+    display: none;
+
+}
+
+.conteudo{
+    float: left;
+    margin-left: 30px;
+    margin-top: 18px;
+    width: 75%;
+}
+
+.texto{
+    color: #f1f1f1;
+}
+.fts1{
+background-color: #a9a6a6;
+margin-bottom: 3px;
+}
+.fts2{
+    background-color: #a9a6a6;
+    }
+
+.btnr{
+    background-color: red;
+    border-radius: 30px;
+    padding: 3px 19px;
+    color: #ffff;
+    text-decoration: none;
+
+}
+.btng{
+    background-color:green;
+    border-radius: 30px;
+    padding: 3px 19px;
+    color: #ffff;
+    text-decoration: none;
+}
+col {
+    flex: 1 0 0%;
+    padding: 0px;
+}

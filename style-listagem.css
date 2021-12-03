@@ -1,0 +1,39 @@
+.row {
+    width: 79%;
+    display: inline-flex;
+}
+.listagem {
+    text-align: center;
+}
+.botao-editar {
+    background: rgb(0, 161, 0);
+    border-radius: 20px;
+    padding: 2px 25px;
+}
+.botao-apagar {
+    background: red;
+    border-radius: 20px;
+    padding: 2px 20px;
+}
+.lista1 {
+    background-color: lightgray;
+    padding: 7px;
+    margin: 5px;
+}
+.lista1 a {
+    text-decoration: none;
+    color: white;
+}
+.upper-list {
+    background-color: cornflowerblue;
+    padding: 7px;
+    margin: 5px;
+    color: white;
+}
+.div-botao {
+    text-align: center;
+    padding-top: 29px;
+}
+.div-botao2 {
+    text-align: center;
+}
